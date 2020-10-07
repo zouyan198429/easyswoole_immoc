@@ -1,0 +1,11 @@
+/.idea
+/imooc_esapi/Temp
+/imooc_esapi/Log
+/imooc_esapi/Config
+/imooc_esapi/vendor
+/imooc_esapi/composer.json
+/imooc_esapi/composer.lock
+/imooc_esapi/EasySwooleEvent.php
+/imooc_esapi/dev.php
+/imooc_esapi/produce.php
+/imooc_esapi/Config.php
